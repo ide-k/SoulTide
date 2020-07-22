@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "49325a69-c6de-4d13-8dfe-5bb750396a33",
+            "Value": {
+                "id": "7362c353-e50d-4506-8ac5-8966795a8e07",
+                "resourcePath": "objects\\obj_Mera\\obj_Mera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5098af6f-8b1e-4ca3-97ba-906e33311f7c",
             "Value": {
                 "id": "2b157802-eecc-4687-ac73-d84a050210bb",
@@ -199,6 +207,14 @@
             }
         },
         {
+            "Key": "d525f4d2-2b20-4b22-a15a-30df422afb97",
+            "Value": {
+                "id": "3d28f876-be7f-4e12-a196-0f2e7b62e330",
+                "resourcePath": "sprites\\spr_Mera\\spr_Mera.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e0517756-890f-44e2-b956-b9caf32a37ec",
             "Value": {
                 "id": "da7b6966-472a-4551-9b8f-67af5d913d2b",
@@ -210,7 +226,7 @@
             "Key": "e0ddcd87-ad54-47c5-acae-ed3417f4deca",
             "Value": {
                 "id": "0428d0e7-1558-4edb-9543-fa79613f455a",
-                "resourcePath": "sprites\\spr_penis\\spr_penis.yy",
+                "resourcePath": "sprites\\spr_MeraProjectile\\spr_MeraProjectile.yy",
                 "resourceType": "GMSprite"
             }
         },
