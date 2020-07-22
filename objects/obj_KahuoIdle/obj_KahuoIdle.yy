@@ -2,7 +2,7 @@
     "id": "5098af6f-8b1e-4ca3-97ba-906e33311f7c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Kahuo",
+    "name": "obj_KahuoIdle",
     "eventList": [
         {
             "id": "6d820e8e-1e05-4725-b430-ae3d45881228",
@@ -15,13 +15,13 @@
             "m_owner": "5098af6f-8b1e-4ca3-97ba-906e33311f7c"
         },
         {
-            "id": "bf17501e-76ac-4116-a727-8a5200b2bff8",
+            "id": "fef575e3-873b-4cc9-9100-5a5c9535e658",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 8,
+            "eventtype": 3,
             "m_owner": "5098af6f-8b1e-4ca3-97ba-906e33311f7c"
         }
     ],

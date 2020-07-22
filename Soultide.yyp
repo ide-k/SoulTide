@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "34e13320-31b9-4c42-bcf4-d73530a8d395",
+            "Value": {
+                "id": "50aa1a8a-bffc-4f07-b4df-80090f1a40d0",
+                "resourcePath": "scripts\\PlayerAnimateSprite\\PlayerAnimateSprite.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "49325a69-c6de-4d13-8dfe-5bb750396a33",
             "Value": {
                 "id": "7362c353-e50d-4506-8ac5-8966795a8e07",
@@ -58,7 +66,7 @@
             "Key": "5098af6f-8b1e-4ca3-97ba-906e33311f7c",
             "Value": {
                 "id": "2b157802-eecc-4687-ac73-d84a050210bb",
-                "resourcePath": "objects\\obj_Kahuo\\obj_Kahuo.yy",
+                "resourcePath": "objects\\obj_KahuoIdle\\obj_KahuoIdle.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -116,6 +124,22 @@
                 "id": "551428c9-0cec-422a-8619-c28762a63403",
                 "resourcePath": "views\\96ffcf9c-0d23-4668-af66-523f70bda967.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9f6892c8-a430-40ed-a236-dda14a2f7889",
+            "Value": {
+                "id": "1fc8ba9e-243d-40a8-a0c5-ef4c32cab731",
+                "resourcePath": "sprites\\spr_KahuoRun\\spr_KahuoRun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a655426d-72df-45b6-ad9f-bfb3901182b2",
+            "Value": {
+                "id": "2393637b-41fd-42fb-95b5-4645677c249f",
+                "resourcePath": "scripts\\MACROS\\MACROS.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -218,7 +242,7 @@
             "Key": "e0517756-890f-44e2-b956-b9caf32a37ec",
             "Value": {
                 "id": "da7b6966-472a-4551-9b8f-67af5d913d2b",
-                "resourcePath": "sprites\\spr_Kahuo\\spr_Kahuo.yy",
+                "resourcePath": "sprites\\spr_KahuoIdle\\spr_KahuoIdle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -248,7 +272,8 @@
         }
     ],
     "script_order": [
-        
+        "a655426d-72df-45b6-ad9f-bfb3901182b2",
+        "34e13320-31b9-4c42-bcf4-d73530a8d395"
     ],
     "tutorial": ""
 }
