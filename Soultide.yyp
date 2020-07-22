@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "e0ddcd87-ad54-47c5-acae-ed3417f4deca",
+            "Value": {
+                "id": "0428d0e7-1558-4edb-9543-fa79613f455a",
+                "resourcePath": "sprites\\spr_penis\\spr_penis.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e2a60cec-65fc-4d6c-948b-986e1645910e",
             "Value": {
                 "id": "0a36a644-cf9d-4ae7-8576-a338c6c14b6b",
