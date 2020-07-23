@@ -1,8 +1,8 @@
 {
-    "id": "2bd319d7-8762-49a9-97cc-dec830054b48",
+    "id": "c9fe35ef-4b53-489e-a993-65eaae023358",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "MACROS",
+    "name": "PlayerCollision",
     "IsCompatibility": false,
     "IsDnD": false
 }

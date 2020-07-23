@@ -1,8 +1,8 @@
 {
-    "id": "2bd319d7-8762-49a9-97cc-dec830054b48",
+    "id": "309a9959-fbe6-4913-996a-df80ed79adc6",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "MACROS",
+    "name": "PlayerStateDodge",
     "IsCompatibility": false,
     "IsDnD": false
 }
