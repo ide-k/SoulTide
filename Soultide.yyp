@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0ae8bc42-6747-41ea-b1dd-3e7b135ebcb9",
+            "Value": {
+                "id": "e6ef91a8-9f97-46b4-8104-5eb8b2a24b49",
+                "resourcePath": "fonts\\fnt_soultidefont\\fnt_soultidefont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "17379cb9-6a6b-49b7-8cbd-98d285855a31",
             "Value": {
                 "id": "95aa22cb-ea2c-403a-9392-1f9eef472af7",
@@ -111,6 +119,14 @@
             }
         },
         {
+            "Key": "a63b7b29-71cf-4ccf-b233-551fbb2dca67",
+            "Value": {
+                "id": "c7e1cbc5-8ff9-41ce-bcab-8a3bc4a0141a",
+                "resourcePath": "sprites\\spr_Mera\\spr_Mera.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "ad0b86e1-6135-4cda-9d85-e0fc739d0247",
@@ -124,6 +140,14 @@
                 "id": "b92acb28-48a3-4f62-9acf-24822ab9b889",
                 "resourcePath": "views\\b1891af5-331a-4969-b056-666d49c9d0d2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b3f9cd1f-ea46-4e73-b587-7269ac8eb0e6",
+            "Value": {
+                "id": "eb3cd9c3-0279-405b-a918-684e94d90f55",
+                "resourcePath": "objects\\obj_Mera\\obj_Mera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
