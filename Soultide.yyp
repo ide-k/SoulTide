@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0ae8bc42-6747-41ea-b1dd-3e7b135ebcb9",
+            "Value": {
+                "id": "e6ef91a8-9f97-46b4-8104-5eb8b2a24b49",
+                "resourcePath": "fonts\\fnt_soultidefont\\fnt_soultidefont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "17379cb9-6a6b-49b7-8cbd-98d285855a31",
             "Value": {
                 "id": "95aa22cb-ea2c-403a-9392-1f9eef472af7",
@@ -135,19 +143,11 @@
             }
         },
         {
-            "Key": "9f6892c8-a430-40ed-a236-dda14a2f7889",
+            "Key": "a63b7b29-71cf-4ccf-b233-551fbb2dca67",
             "Value": {
-                "id": "1fc8ba9e-243d-40a8-a0c5-ef4c32cab731",
-                "resourcePath": "sprites\\spr_KahuoRun\\spr_KahuoRun.yy",
+                "id": "c7e1cbc5-8ff9-41ce-bcab-8a3bc4a0141a",
+                "resourcePath": "sprites\\spr_Mera\\spr_Mera.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a655426d-72df-45b6-ad9f-bfb3901182b2",
-            "Value": {
-                "id": "2393637b-41fd-42fb-95b5-4645677c249f",
-                "resourcePath": "scripts\\MACROS\\MACROS.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -164,6 +164,14 @@
                 "id": "b92acb28-48a3-4f62-9acf-24822ab9b889",
                 "resourcePath": "views\\b1891af5-331a-4969-b056-666d49c9d0d2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b3f9cd1f-ea46-4e73-b587-7269ac8eb0e6",
+            "Value": {
+                "id": "eb3cd9c3-0279-405b-a918-684e94d90f55",
+                "resourcePath": "objects\\obj_Mera\\obj_Mera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
