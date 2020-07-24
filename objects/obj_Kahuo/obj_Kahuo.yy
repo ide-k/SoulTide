@@ -2,7 +2,7 @@
     "id": "5098af6f-8b1e-4ca3-97ba-906e33311f7c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_KahuoIdle",
+    "name": "obj_Kahuo",
     "eventList": [
         {
             "id": "6d820e8e-1e05-4725-b430-ae3d45881228",

@@ -1,2 +1,4 @@
-hp = 100;
-score = 0; 
+/// @desc initialization and globals
+global.gamepaused = false;
+
+room_goto(ROOM_START);

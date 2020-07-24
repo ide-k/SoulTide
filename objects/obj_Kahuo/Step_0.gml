@@ -6,8 +6,8 @@ keyDown = keyboard_check(vk_down) || keyboard_check(ord("S"));
 
 // for later
 keyActivate = keyboard_check_pressed(ord("E"));
-keyAttack = keyboard_check_pressed(mb_left);
-keyDodge = keyboard_check_pressed(mb_right);
+keyAttack = mouse_check_button_pressed(mb_left);
+keyDodge = mouse_check_button_pressed(mb_right);
 
 inputDirection = point_direction(0,0,keyRight-keyLeft,keyDown-keyUp);
 inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
