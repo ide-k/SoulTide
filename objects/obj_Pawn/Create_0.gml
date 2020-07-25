@@ -16,7 +16,8 @@ move_speed_dodge = 8;
 accel_speed = 0.1;
 brake_speed = 0.2;
 
-
+hp_max = 100;
+hp_current = 100;
 
 
 
