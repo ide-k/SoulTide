@@ -6,6 +6,7 @@ switch(state)
 {
 	case "IDLE":
 		// find a target or move randomly or something
+		
 		if(distance_to_point(obj_Child.x, obj_Child.y) < view_range)
 		{
 			state = "CHASE";

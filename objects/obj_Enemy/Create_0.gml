@@ -11,5 +11,5 @@ attack_timer = 0;
 
 view_range = 256;
 chase_range = 64;
-chase_speed = 2;
+chase_speed = 6;
 attack_range = 128;
