@@ -12,9 +12,12 @@ key_activate = keyboard_check_pressed(ord("E"));
 key_attack = mouse_check_button_pressed(mb_left);
 key_dodge = mouse_check_button_pressed(mb_right);
 
+target_line_dir = point_direction(x, y + target_y_offset, mouse_x, mouse_y);
 if (key_attack) 
 {
-	temp_bullet = instance_create_depth(mouse_x, mouse_y, 1, obj_bulletPlayer);
+	temp_bullet = instance_create_depth(x + lengthdir_x(40, target_line_dir), y-25 + lengthdir_y(40, target_line_dir), 1, obj_bulletPlayer);
+	temp_bullet.bullet_dir = target_line_dir;
+	
 }
 
 move_dir_x = 0;
@@ -105,7 +108,7 @@ if (dodge_timer >= dodge_length - (dodge_length / 5)) {
 show_debug_message("key_dodge: " + string(key_dodge));
 show_debug_message("isDodging: " + string(isDodging));
 show_debug_message("dodge_animation_magic: " + string(dodge_animation_magic));
-target_line_dir = point_direction(x, y + target_y_offset, mouse_x, mouse_y);
+
 draw_len = max(room_width,room_height)*pi;
 endx1 = lengthdir_x(draw_len, target_line_dir);
 

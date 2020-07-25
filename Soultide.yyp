@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "47b4b208-037b-49b1-ba61-49ec24f5ac6b",
+            "Value": {
+                "id": "0e78f96a-917d-40ca-8275-18116dd06341",
+                "resourcePath": "scripts\\draw_text_outlined\\draw_text_outlined.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "49325a69-c6de-4d13-8dfe-5bb750396a33",
             "Value": {
                 "id": "7362c353-e50d-4506-8ac5-8966795a8e07",
@@ -511,6 +519,14 @@
             }
         },
         {
+            "Key": "cccac5b8-301b-49a9-bdf9-d300da1ea8ee",
+            "Value": {
+                "id": "ad861e40-a381-4a12-a28d-2a5f528608d9",
+                "resourcePath": "fonts\\fnt_hp\\fnt_hp.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "cdfd7e79-221a-45eb-bb1c-45692290b5e3",
             "Value": {
                 "id": "bb3fa9c0-5709-4398-8da5-0866770ba533",
@@ -547,6 +563,14 @@
             "Value": {
                 "id": "0428d0e7-1558-4edb-9543-fa79613f455a",
                 "resourcePath": "sprites\\spr_MeraProjectile\\spr_MeraProjectile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e1b392ab-8efe-4003-ae39-0fd159265d78",
+            "Value": {
+                "id": "1ab1ad9d-275c-44c0-b782-e37342c91289",
+                "resourcePath": "sprites\\spr_fireball\\spr_fireball.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -589,7 +613,8 @@
         "c9fe35ef-4b53-489e-a993-65eaae023358",
         "0a0ba5fc-9b70-4660-8143-46cabf36144f",
         "309a9959-fbe6-4913-996a-df80ed79adc6",
-        "52740eff-9232-42b5-9be3-21152cecbd74"
+        "52740eff-9232-42b5-9be3-21152cecbd74",
+        "47b4b208-037b-49b1-ba61-49ec24f5ac6b"
     ],
     "tutorial": ""
 }

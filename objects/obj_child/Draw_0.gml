@@ -12,6 +12,8 @@ for (i = 1; i < dodge_animation_magic; i ++) {
 }
 
 }
+//draw_sprite_ext(sprite_index, image_index, x, y+ 45, image_xscale, -image_yscale/2, 0, c_white, 0.2);
 draw_sprite_ext(sprite_index, image_index, x, y, image_xscale, image_yscale, 0, c_white, 1);
+
 
 draw_sprite_ext(spr_crosshair, 0, mouse_x, mouse_y, 1, 1, crosshair_rot, c_white, 1);
